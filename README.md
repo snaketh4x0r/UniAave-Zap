@@ -55,7 +55,7 @@ https://ropsten.etherscan.io/tx/0x7afbd92af09f551d70f4850576e34aeea8dfa38a1ee3b3
 
 
 ## Demo link
-http://zapify.surge.sh/
+https://aave-uniswapzaps.web.app/
 
 ## Note 
 All Contracts are deployed on Ropsten Network, so you just need some eth there to get started,we will support more zaps on frontend soon
@@ -80,8 +80,3 @@ Navigate to http://localhost:3000 to :fire:Zapify:fire:
 ## Note 
 All Contracts are deployed on Ropsten Network, so you just need some eth there to get started
 
-## Steps to run the App
-Clone the repo
-Run npm install inside frontend & ethereum
-Navigate to frontend in cmd and run npm run start
-Navigate to http://localhost:3000 to :fire:Zapify:fire:
